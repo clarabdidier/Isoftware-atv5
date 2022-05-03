@@ -3,8 +3,10 @@
 
 ## Clone
 
+```bash
 git clone git@github.com:clarabdidier/ISoftware-atv5.git
 cd Software-atv5
+```
 
 ## Running
 
